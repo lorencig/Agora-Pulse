@@ -1,7 +1,7 @@
 import streamlit as st
 
+st.set_page_config(
+    page_title="Agora Pulse",
+    page_icon="🚦")
 # Display the heading
-st.title("Agora Pulse")
-
-# Display the colored circles
-st.write("🔴🟡🟢")
+st.title("Agora Pulse 🔴🟡🟢")
